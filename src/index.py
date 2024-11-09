@@ -4,7 +4,6 @@ def alku(mehua, olutta):
     print("Luonnin jälkeen:")
     print(f"Mehuvarasto: {mehua}")
     print(f"Olutvarasto: {olutta}")
-    111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
 
 def olut(olutta):
     print("Olut getterit:")
